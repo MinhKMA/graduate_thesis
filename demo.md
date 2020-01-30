@@ -53,3 +53,5 @@ Kết quả:
 
 - Client bị crash
 
+<img src="https://i.imgur.com/pRYJwnU.png">
+
